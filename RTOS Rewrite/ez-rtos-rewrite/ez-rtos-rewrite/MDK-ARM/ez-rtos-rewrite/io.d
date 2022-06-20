@@ -1,0 +1,13 @@
+ez-rtos-rewrite\io.o: ..\OS\io.c
+ez-rtos-rewrite\io.o: ..\OS\./io.h
+ez-rtos-rewrite\io.o: D:\Software\KEIL\ARM\ARMCC\Bin\..\include\stdint.h
+ez-rtos-rewrite\io.o: ..\OS\./os.h
+ez-rtos-rewrite\io.o: D:\Software\KEIL\Keil\STM32F1xx_DFP\1.0.5\Device\Include\stm32f10x.h
+ez-rtos-rewrite\io.o: ../Drivers/CMSIS/Include/core_cm3.h
+ez-rtos-rewrite\io.o: ../Drivers/CMSIS/Include/cmsis_version.h
+ez-rtos-rewrite\io.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+ez-rtos-rewrite\io.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ez-rtos-rewrite\io.o: D:\Software\KEIL\Keil\STM32F1xx_DFP\1.0.5\Device\Include\system_stm32f10x.h
+ez-rtos-rewrite\io.o: ..\OS\./task.h
+ez-rtos-rewrite\io.o: ..\OS\./critical_section.h
+ez-rtos-rewrite\io.o: ..\OS\./memory.h
