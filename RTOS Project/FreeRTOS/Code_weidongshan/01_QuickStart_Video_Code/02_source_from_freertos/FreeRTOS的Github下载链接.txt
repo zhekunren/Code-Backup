@@ -1,0 +1,3 @@
+FreeRTOSv202111.00
+
+https://github.com/FreeRTOS/FreeRTOS/tree/202111.00
